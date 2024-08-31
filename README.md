@@ -17,6 +17,6 @@ CSS3
 How to View
 
 Clone this repository to your local machine:
-
+ https://harishramalingam.github.io/Udemy-clone/
 Open the index.html file in your browser to view the homepage.
 Navigate through the site using the links provided to explore different sections
